@@ -15,6 +15,15 @@ Insights and recommendations from this analysis will be used by the customer ret
 
 ## About Data
 
-## Ad Hoc Analysis
+## Insight Deep Dive
+### Overall Business Performance
+- **Customer Total:** The company currently serves **7,043 customers**, meaning this dataset represents the entire active customer base for the period analyzed.
+- **Total Revenue ($21.37M):** This is the total revenue earned from all customers during the analyzed period. A high revenue figure suggests a strong market presence, but churn can significantly impact future earnings.
+- **Total CLTV ($30.99M):** The total estimated future value of the customer base is significant. This suggests that if all customers were retained, they would contribute nearly **$31M over their lifetime**.
+- **Churn Rate (27%):** A **27% churn rate is quite high** for a telecom company. It means **more than 1 in 4 customers left**, which could indicate customer dissatisfaction, competitive pressure, or pricing issues.
+- **Total Lost Revenue ($3.68M):** The company **lost $3.68** in revenue due to customer churn. This is **17.2% of total revenue**, showing that churn is causing a significant financial impact.
+- **Total Lost CLTV ($7.75M):** The long-term value of lost customers is **$7.75M**, which is even more concerning. This shows that churned customers could have contributed much more revenue over time if retained.
+
+![image](https://github.com/user-attachments/assets/3027e826-31f7-489f-bc8c-92b75df8b08c)
 
 
