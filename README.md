@@ -26,4 +26,11 @@ Insights and recommendations from this analysis will be used by the customer ret
 
 ![image](https://github.com/user-attachments/assets/3027e826-31f7-489f-bc8c-92b75df8b08c)
 
+### CLTV Segmentation
+- **High-Value Customers:** The company were able to **retain a total of 1891 High-Value customers**, which is a positive sign. However, **555 High-Value customers churned**. This is a significant concern as these customers are the most profitable, so losing them has a major financial impact. In addition, only **128 high value customers joined**, which is a concern because acquiring high-value customers is crucial for revenue growth. 
+- **Medium-Value Customers:** Medium value customers have the **highest retention at 2,515 customers**, but also had the **highest churn at 1,108 customers**, showing mixed loyalty. Moreover, medium value customers make up the bulk of **new customers at 274 customers**.
+- **Low-Value Customers:** Low value customers have the **lowest retention at 314 customers** and the **lowest churn at 206 customers**, indicating a smaller financial impact. Moreover, Low-Value customers make up the smallest portion of **new customers at 52 customers**, suggesting that the company is not heavily attracting or focusing on this segment.
+
+![image](https://github.com/user-attachments/assets/6abdc083-461f-4e96-bac1-6504bd9d5ac4)
+
 
