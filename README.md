@@ -53,8 +53,10 @@ Insights and recommendations from this analysis will be used by the customer ret
   - This suggests that while churn is not a major concern in this group, their small customer base limits overall financial impact. Retention efforts for this segment should focus on customer acquisition rather than churn reduction, emphasizing incentives to attract young, long-term subscribers.
 
 ![image](https://github.com/user-attachments/assets/7611e318-4ce6-42cf-9fc3-2b3521568cb5)
-
 ![image](https://github.com/user-attachments/assets/38365d90-679b-4d5d-86f2-4f317eb6e0f2)
+![image](https://github.com/user-attachments/assets/bf24701f-38d9-40ac-9dea-38869aabd562)
+![image](https://github.com/user-attachments/assets/1260ba48-289a-4719-be7c-d5b78385c77e)
+
 
 ### Recommendation
 - **Older age groups (Over 65, 51-65)**:
