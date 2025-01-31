@@ -47,7 +47,10 @@ Insights and recommendations from this analysis will be used by the customer ret
   - Low-Value customers churn the fastest, with rates of 32.93% (36-50) and 29.17% (20-35), reflecting price sensitivity and service dissatisfaction despite lower churn counts (55 and 42).
   - Retention efforts should prioritize Medium-Value customers to stabilize revenue and High-Value customers to minimize financial loss.
 
-
+- **Under 20:**
+  - Segment has the lowest churn rates across all CLTV segments, with High-Value at 11.76%, Medium-Value at 13.95%, and Low-Value at 28.57%.
+  - The absolute churn count is minimal, with only 4 High-Value, 12 Medium-Value, and 2 Low-Value customers lost.
+  - This suggests that while churn is not a major concern in this group, their small customer base limits overall financial impact. Retention efforts for this segment should focus on customer acquisition rather than churn reduction, emphasizing incentives to attract young, long-term subscribers.
 
 ![image](https://github.com/user-attachments/assets/7611e318-4ce6-42cf-9fc3-2b3521568cb5)
 
