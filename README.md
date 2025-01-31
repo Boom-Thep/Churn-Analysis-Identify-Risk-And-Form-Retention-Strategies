@@ -34,14 +34,28 @@ Insights and recommendations from this analysis will be used by the customer ret
 ![image](https://github.com/user-attachments/assets/6abdc083-461f-4e96-bac1-6504bd9d5ac4)
 
 ### CLTV Segmentation by Age Group
-- 36-50 and 20-35 age groups have the highest number of customers across all CLTV segments, indicating they are the core customer base.
-- 51-65 and Over 65 groups have fewer customers, but their churn numbers are relatively high, suggesting retention challenges among older users.
-- Under 20 group has the smallest customer base (only 34 High-Value and 12 Medium-Value customers), likely due to less spending power or lower service needs.
-- Medium-Value customers have the highest churn in every age group, showing that this segment is the most unstable regardless of age
+**Churn Rate Across Age Group**
+- **Older age groups (Over 65, 51-65)**:
+  - both 51-65 (20.52%) and Over 65 (34.78%) have high High-Value churn rates, with Over 65 losing slightly more customers (136), making them the most at-risk financially.
+  - Medium-Value churn rates are significantly higher for Over 65 (44.62%) compared to 51-65 (26.90%), with both groups losing a similar number of customers (261 vs. 276), reinforcing Medium-Value volatility.
+  - Low-Value churn is the highest across both segments, at 35.33% (51-65) and 55.17% (Over 65), indicating severe retention challenges in older age groups.
+  - Retention strategies should focus on personalized engagement and service reliability improvements for High-Value customers, while Medium- and Low-Value customers may benefit from flexible pricing and targeted support initiatives.
+  
+- **Age Group 20-35 and 36-50:**
+  - Both 36-50 (19.38%) and 20-35 (18.14%) have similar High-Value churn rates, with 36-50 losing more customers (149), making them a higher financial risk.
+  - Medium-Value churn rates are nearly identical (36-50: 25.20%, 20-35: 25.60%), but 20-35 loses the most customers (301 vs. 258), highlighting their volatility.
+  - Low-Value customers churn the fastest, with rates of 32.93% (36-50) and 29.17% (20-35), reflecting price sensitivity and service dissatisfaction despite lower churn counts (55 and 42).
+  - Retention efforts should prioritize Medium-Value customers to stabilize revenue and High-Value customers to minimize financial loss.
+
+
 
 ![image](https://github.com/user-attachments/assets/7611e318-4ce6-42cf-9fc3-2b3521568cb5)
 
 ![image](https://github.com/user-attachments/assets/38365d90-679b-4d5d-86f2-4f317eb6e0f2)
 
-
-
+### Recommendation
+- **Older age groups (Over 65, 51-65)**:
+  - Retention strategies should focus on personalized engagement and service reliability improvements for High-Value customers, while Medium- and Low-Value customers may benefit from flexible pricing and targeted support initiatives.
+    
+- **Age Group 20-35 and 36-50:**
+  - Retention efforts should prioritize Medium-Value customers to stabilize revenue and High-Value customers to minimize financial loss.
