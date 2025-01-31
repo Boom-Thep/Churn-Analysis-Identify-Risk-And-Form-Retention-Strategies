@@ -62,11 +62,17 @@ Insights and recommendations from this analysis will be used by the customer ret
 - Competitor: Biggest churn driver, responsible for nearly half of all churn at 45% churn rate with total of 841 churned.
 - Attitude: The second driver of churn with 314 churned customers at 16.8 % churn rate, which indicate problems in customer service and engagement strategies.
 - Dissatisfaction: The third reasons why people churn with 303 churns at 16.21% churn rate. 
-Price (211 churns): Pricing concerns contribute to a notable share of churn, indicating that some customers find the service too expensive or lacking in perceived value.
-Other (200 churns): A smaller but still significant category that includes miscellaneous or unclassified reasons.
+- Price: Pricing concerns contribute to a notable share of churn with 211 churned at 11.29% churn rate.
+- Other: A smaller but still significant category that includes miscellaneous or unclassified reasons.
+
 ![image](https://github.com/user-attachments/assets/369bd994-1242-4297-ae5b-8cb84c060abe)
 
 **Churn Reason:**
+- Competitor: The biggest churn driver is competitors offering better devices (313) and offers (311), making pricing and product offerings a major retention challenge.
+- Service and Support Issue: Poor customer service attitude is a major factor in churn, with attitude of a person alone accounts to 220 customers leaving due to negative interactions with support staff.
+-  Dissatisfaction and Reliability issues: Dissastisfaction is widespread across service reliability, product performance, and technical support, suggesting a need for better service quality and training for support teams.
+-  Price concerns: While price-related churn is lower than service and competition issues, it remains a notable concern, especially in data pricing and affordability.
+-  Other reasons: including unknown reasons, customers moving, lack of self service on the website, and for the person being deceased.
 ![image](https://github.com/user-attachments/assets/15b3e21d-5589-47f2-9665-ef044df2e210)
 
 
