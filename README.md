@@ -57,8 +57,20 @@ Insights and recommendations from this analysis will be used by the customer ret
 ![image](https://github.com/user-attachments/assets/bf24701f-38d9-40ac-9dea-38869aabd562)
 ![image](https://github.com/user-attachments/assets/1260ba48-289a-4719-be7c-d5b78385c77e)
 
+### Churn Reason
+**Churn By category:**
+- Competitor: Biggest churn driver, responsible for nearly half of all churn at 45% churn rate with total of 841 churned.
+- Attitude: The second driver of churn with 314 churned customers at 16.8 % churn rate, which indicate problems in customer service and engagement strategies.
+- Dissatisfaction: The third reasons why people churn with 303 churns at 16.21% churn rate. 
+Price (211 churns): Pricing concerns contribute to a notable share of churn, indicating that some customers find the service too expensive or lacking in perceived value.
+Other (200 churns): A smaller but still significant category that includes miscellaneous or unclassified reasons.
+![image](https://github.com/user-attachments/assets/369bd994-1242-4297-ae5b-8cb84c060abe)
 
-### Recommendation
+**Churn Reason:**
+![image](https://github.com/user-attachments/assets/15b3e21d-5589-47f2-9665-ef044df2e210)
+
+
+## Recommendation
 - **Older age groups (Over 65, 51-65)**:
   - Retention strategies should focus on personalized engagement and service reliability improvements for High-Value customers, while Medium- and Low-Value customers may benefit from flexible pricing and targeted support initiatives.
     
