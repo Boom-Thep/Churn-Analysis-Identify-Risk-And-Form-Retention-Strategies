@@ -7,7 +7,7 @@ The KPIs we are investigating include:
 - **Revenue Lost Due to Churn:** The total revenue lost from churned customers.
 - **Customer Lifetime Value (CLTV) Churn Segmentation:** Categorizing customers into High, Medium, and Low Value segments to assess financial impact. Identify which age group is highly valuable and should be prioritized in retaining.
 - **Churn by category and reason:**  Identify what's the driving factor in customer churn.
-- **Monthly Charges vs. Churn:** – Determining if pricing influences churn behavior.
+- **Monthly Charges vs. Churn:** Determining if pricing influences churn behavior.
   
 Insights and recommendations from this analysis will be used by the customer retention and strategy teams to develop personalized retention offers, improve pricing models, and enhance customer service efforts to minimize churn and maximize revenue retention.
 
@@ -73,10 +73,12 @@ Insights and recommendations from this analysis will be used by the customer ret
 -  Other reasons: including unknown reasons, customers moving, lack of self service on the website, and for the person being deceased.
 ![image](https://github.com/user-attachments/assets/15b3e21d-5589-47f2-9665-ef044df2e210)
 
+### Monthly Charges Vs. Churn
+- High Churn in Higher Monthly Charge Groups: The highest churn rates are in the $81-$100 (37.02%) and $61-$80 (33.17%) categories. This suggests that customers with higher monthly charges are more likely to leave, likely due to cost concerns or a perceived lack of value.
+- Moderate Churn in Mid-Range Charges: $41-$60 (25.58%) and Over $100 (28.05%) categories also experience moderate to high churn, further reinforcing that higher spending does not guarantee loyalty. The Over $100 group has a slightly lower churn rate (28.05%) compared to $81-$100 (37.02%), suggesting that customers in this segment might be on premium plans with added incentives that improve retention.
+- Low Churn in Lower Monthly Charge Groups: The $20-$40 category (12.98%) and Under $20 (8.97%) have the lowest churn rates. This indicates that budget-friendly customers are more stable, possibly due to lower expectations or fewer alternative options.
+  
+![image](https://github.com/user-attachments/assets/8fd438ab-7faf-4e8a-a508-f3eac40d0220)
+
 
 ## Recommendation
-- **Older age groups (Over 65, 51-65)**:
-  - Retention strategies should focus on personalized engagement and service reliability improvements for High-Value customers, while Medium- and Low-Value customers may benefit from flexible pricing and targeted support initiatives.
-    
-- **Age Group 20-35 and 36-50:**
-  - Retention efforts should prioritize Medium-Value customers to stabilize revenue and High-Value customers to minimize financial loss.
