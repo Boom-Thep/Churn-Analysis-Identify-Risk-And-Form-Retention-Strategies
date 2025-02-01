@@ -1,17 +1,26 @@
 # Churn Insights & Revenue Impact: Understanding Customer Attrition in Telecom Company
 ## Project Summary
-This project presents a customer churn dataset from a telecom company specializing in phone and internet services. The dataset covers the Q3 churn report, consisting of 7,043 customers from California. The goal of this project is to analyze churn group, identify key risk factors, and measure the financial impact of customer attrition.
-We are collaborating with the customer experience and retention teams to assess churn and develop strategies to minimize churn. By analyzing historical data, we aim to understand which customer segments are most at risk and how to improve retention through targeted actions.
-The KPIs we are investigating include:
-- **Churn Rate:** The percentage of customers who left during the period.
-- **Revenue Lost Due to Churn:** The total revenue lost from churned customers.
-- **Customer Lifetime Value (CLTV) Churn Segmentation:** Categorizing customers into High, Medium, and Low Value segments to assess financial impact. Identify which age group is highly valuable and should be prioritized in retaining.
-- **Churn by category and reason:**  Identify what's the driving factor in customer churn.
-- **Monthly Charges vs. Churn:** Determining if pricing influences churn behavior.
+This project presents a customer churn analysis for a telecom company specializing in phone and internet services, using a dataset of 7,043 customers from California. The objective of this study is to identify key churn drivers, assess financial impact, and develop data-driven retention strategies. By analyzing customer churn across CLTV segmentation, age groups, churn reasons, and monthly pricing trends, the goal is to prioritize high-risk segments and improve customer retention efforts.
+Key focus areas include:
+- **Churn Rate & Revenue Loss:** Understanding overall churn impact on business revenue and long-term CLTV loss.
+- **Customer Lifetime Value (CLTV) Churn Segmentation:** Identifying which customer groups (High, Medium, Low Value) and age segments are most at risk.
+- **Churn by category and reason:** Analyzing the main reasons customers leave, such as competitor offers, service dissatisfaction, pricing concerns, and customer support issues.
+- **Monthly Charges vs. Churn:** Determining how pricing influences churn behavior and identifying high-risk pricing segments.
   
-Insights and recommendations from this analysis will be used by the customer retention and strategy teams to develop personalized retention offers, improve pricing models, and enhance customer service efforts to minimize churn and maximize revenue retention.
+Insights from this analysis will inform strategic initiatives to reduce churn, enhance pricing models, improve customer service, and develop personalized retention programs to maximize revenue retention and customer loyalty.
 
 ## About Data
+
+## Executive Summary
+This churn analysis provides a deep dive into customer attrition trends in a telecom company, revealing that competition, customer service dissatisfaction, and pricing concerns are the primary churn drivers. Key findings include:
+- 27% overall churn rate, leading to $3.68M in revenue loss and $7.75M in long-term CLTV loss.
+- High-Value customers have lower churn rates but cause significant financial loss when they leave, making them a top retention priority.
+- Medium-Value customers are the most unstable, with the highest churn counts across all age groups.
+- Older customers (Over 65) have the highest churn rates, while younger customers (20-35 and 36-50) drive the most absolute churn. Focus retention efforts on the 20-35 and 36-50 age groups first, as they contribute the highest number of churned customers, leading to greater revenue loss. Over 65 should be a secondary focus, as their churn rate is highest but affects fewer customers overall.
+- Customers paying $81-$100 have the highest churn rate (37.02%), followed by $61-$80 (33.17%), suggesting price dissatisfaction in premium plans.
+- Competitor-driven churn accounts for 45% of total churn, followed by poor service interactions (16.8%) and dissatisfaction with product/service quality (16.21%).
+
+To mitigate churn, the company should enhance competitive pricing, improve customer service interactions, and focus on value-driven retention strategies for high-risk customer segments.
 
 ## Insight Deep Dive
 ### Overall Business Performance
@@ -82,3 +91,21 @@ Insights and recommendations from this analysis will be used by the customer ret
 
 
 ## Recommendation
+To effectively reduce churn and improve customer retention, the following actions should be taken:
+1. Address Competitor-Driven Churn (45% of Total Churn)
+Offer competitive pricing adjustments and exclusive retention incentives to customers in high-risk segments.
+Introduce device upgrade programs and loyalty perks to prevent customers from switching to competitors.
+Implement personalized retention campaigns for High-Value customers to enhance engagement.
+2. Improve Customer Service Experience (16.8% of Total Churn)
+Train support staff to improve customer interactions and reduce dissatisfaction caused by poor service.
+Implement proactive customer engagement, reaching out to at-risk customers before they decide to leave.
+Strengthen self-service options to improve customer satisfaction and reduce reliance on direct support.
+3. Reevaluate Pricing Strategies for High-Churn Segments
+Optimize pricing for $81-$100 and $61-$80 customer groups, where churn rates are the highest.
+Offer flexible pricing models, including bundled services and loyalty discounts.
+Target price-sensitive customers with value-based offers to justify costs and improve retention.
+4. Focus on Retention of Medium-Value Customers
+Since Medium-Value customers contribute the highest churn count, implement contract incentives and engagement campaigns tailored to their needs.
+Provide discounted renewal rates and added service benefits for long-term retention.
+Offer targeted promotions and personalized outreach to reduce churn risk in this unstable segment.
+By implementing these data-driven retention strategies, the company can minimize churn, maximize revenue retention, and enhance long-term customer loyalty in a competitive telecom market.
