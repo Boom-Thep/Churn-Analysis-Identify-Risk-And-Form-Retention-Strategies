@@ -40,8 +40,7 @@ To mitigate churn, the company should enhance competitive pricing, improve custo
 
 ![image](https://github.com/user-attachments/assets/6abdc083-461f-4e96-bac1-6504bd9d5ac4)
 
-### CLTV Segmentation by Age Group
-**Churn Rate Across Age Group**
+### CLTV Churn Segmentation by Age Group
 - **Older age groups (Over 65, 51-65)**:
   - both 51-65 (20.52%) and Over 65 (34.78%) have high High-Value churn rates, with Over 65 losing slightly more customers (136), making them the most at-risk financially.
   - Medium-Value churn rates are significantly higher for Over 65 (44.62%) compared to 51-65 (26.90%), with both groups losing a similar number of customers (261 vs. 276), reinforcing Medium-Value volatility.
