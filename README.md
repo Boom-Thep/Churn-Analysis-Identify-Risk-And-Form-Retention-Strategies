@@ -57,6 +57,7 @@ To mitigate churn, the company should enhance competitive pricing, improve custo
   - Segment has the lowest churn rates across all CLTV segments, with High-Value at 11.76%, Medium-Value at 13.95%, and Low-Value at 28.57%.
   - The absolute churn count is minimal, with only 4 High-Value, 12 Medium-Value, and 2 Low-Value customers lost.
   - This suggests that while churn is not a major concern in this group, their small customer base limits overall financial impact. Retention efforts for this segment should focus on customer acquisition rather than churn reduction, emphasizing incentives to attract young, long-term subscribers.
+![image](https://github.com/user-attachments/assets/3faf3ec8-1914-4065-882b-03fd12ae3063)
 
 ![image](https://github.com/user-attachments/assets/7611e318-4ce6-42cf-9fc3-2b3521568cb5)
 ![image](https://github.com/user-attachments/assets/38365d90-679b-4d5d-86f2-4f317eb6e0f2)
@@ -71,7 +72,7 @@ To mitigate churn, the company should enhance competitive pricing, improve custo
 - Price: Pricing concerns contribute to a notable share of churn with 211 churned at 11.29% churn rate.
 - Other: A smaller but still significant category that includes miscellaneous or unclassified reasons.
 
-![image](https://github.com/user-attachments/assets/369bd994-1242-4297-ae5b-8cb84c060abe)
+![image](https://github.com/user-attachments/assets/646dac3c-e30c-4f73-b0cc-1f5927f13fb0)
 
 **Churn Reason:**
 - Competitor: The biggest churn driver is competitors offering better devices (313) and offers (311), making pricing and product offerings a major retention challenge.
@@ -79,7 +80,8 @@ To mitigate churn, the company should enhance competitive pricing, improve custo
 -  Dissatisfaction and Reliability issues: Dissastisfaction is widespread across service reliability, product performance, and technical support, suggesting a need for better service quality and training for support teams.
 -  Price concerns: While price-related churn is lower than service and competition issues, it remains a notable concern, especially in data pricing and affordability.
 -  Other reasons: including unknown reasons, customers moving, lack of self service on the website, and for the person being deceased.
-![image](https://github.com/user-attachments/assets/15b3e21d-5589-47f2-9665-ef044df2e210)
+- 
+![image](https://github.com/user-attachments/assets/48f2cf31-a1a0-491a-bac9-d08e41bf567d)
 
 ### Monthly Charges Vs. Churn
 - High Churn in Higher Monthly Charge Groups: The highest churn rates are in the $81-$100 (37.02%) and $61-$80 (33.17%) categories. This suggests that customers with higher monthly charges are more likely to leave, likely due to cost concerns or a perceived lack of value.
