@@ -31,7 +31,7 @@ To mitigate churn, the company should enhance competitive pricing, improve custo
 - **Total Lost Revenue ($3.68M):** The company **lost $3.68** in revenue due to customer churn. This is **17.2% of total revenue**, showing that churn is causing a significant financial impact.
 - **Total Lost CLTV ($7.75M):** The long-term value of lost customers is **$7.75M**, which is even more concerning. This shows that churned customers could have contributed much more revenue over time if retained.
   
-![image](https://github.com/user-attachments/assets/2ac68901-6578-4cc9-a14b-4775bdb6cf25)
+![image](https://github.com/user-attachments/assets/8c630106-f1bf-4d32-acab-f7712c9a1820)
 
 ### CLTV Segmentation
 - **High-Value Customers:** The company were able to **retain a total of 1891 High-Value customers**, which is a positive sign. However, **555 High-Value customers churned**. This is a significant concern as these customers are the most profitable, so losing them has a major financial impact. In addition, only **128 high value customers joined**, which is a concern because acquiring high-value customers is crucial for revenue growth. 
