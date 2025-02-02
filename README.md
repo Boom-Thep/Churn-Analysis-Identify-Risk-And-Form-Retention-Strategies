@@ -10,6 +10,8 @@ Key focus areas include:
 Insights from this analysis will inform strategic initiatives to reduce churn, enhance pricing models, improve customer service, and develop personalized retention programs to maximize revenue retention and customer loyalty.
 
 ## About Data
+![image](https://github.com/user-attachments/assets/8779b96b-9ca0-4695-975c-55adbcc6e655)
+
 
 ## Executive Summary
 This churn analysis provides a deep dive into customer attrition trends in a telecom company, revealing that competition, customer service dissatisfaction, and pricing concerns are the primary churn drivers. Key findings include:
