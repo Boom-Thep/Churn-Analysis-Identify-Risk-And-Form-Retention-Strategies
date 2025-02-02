@@ -30,15 +30,15 @@ To mitigate churn, the company should enhance competitive pricing, improve custo
 - **Churn Rate (27%):** A **27% churn rate is quite high** for a telecom company. It means **more than 1 in 4 customers left**, which could indicate customer dissatisfaction, competitive pressure, or pricing issues.
 - **Total Lost Revenue ($3.68M):** The company **lost $3.68** in revenue due to customer churn. This is **17.2% of total revenue**, showing that churn is causing a significant financial impact.
 - **Total Lost CLTV ($7.75M):** The long-term value of lost customers is **$7.75M**, which is even more concerning. This shows that churned customers could have contributed much more revenue over time if retained.
-
-![image](https://github.com/user-attachments/assets/3027e826-31f7-489f-bc8c-92b75df8b08c)
+  
+![image](https://github.com/user-attachments/assets/2ac68901-6578-4cc9-a14b-4775bdb6cf25)
 
 ### CLTV Segmentation
 - **High-Value Customers:** The company were able to **retain a total of 1891 High-Value customers**, which is a positive sign. However, **555 High-Value customers churned**. This is a significant concern as these customers are the most profitable, so losing them has a major financial impact. In addition, only **128 high value customers joined**, which is a concern because acquiring high-value customers is crucial for revenue growth. 
 - **Medium-Value Customers:** Medium value customers have the **highest retention at 2,515 customers**, but also had the **highest churn at 1,108 customers**, showing mixed loyalty. Moreover, medium value customers make up the bulk of **new customers at 274 customers**.
 - **Low-Value Customers:** Low value customers have the **lowest retention at 314 customers** and the **lowest churn at 206 customers**, indicating a smaller financial impact. Moreover, Low-Value customers make up the smallest portion of **new customers at 52 customers**, suggesting that the company is not heavily attracting or focusing on this segment.
 
-![image](https://github.com/user-attachments/assets/6abdc083-461f-4e96-bac1-6504bd9d5ac4)
+![image](https://github.com/user-attachments/assets/615204bd-04c2-42b2-9307-6c13154aa92e)
 
 ### CLTV Churn Segmentation by Age Group
 - **Older age groups (Over 65, 51-65)**:
@@ -59,10 +59,7 @@ To mitigate churn, the company should enhance competitive pricing, improve custo
   - This suggests that while churn is not a major concern in this group, their small customer base limits overall financial impact. Retention efforts for this segment should focus on customer acquisition rather than churn reduction, emphasizing incentives to attract young, long-term subscribers.
 ![image](https://github.com/user-attachments/assets/3faf3ec8-1914-4065-882b-03fd12ae3063)
 
-![image](https://github.com/user-attachments/assets/7611e318-4ce6-42cf-9fc3-2b3521568cb5)
-![image](https://github.com/user-attachments/assets/38365d90-679b-4d5d-86f2-4f317eb6e0f2)
-![image](https://github.com/user-attachments/assets/bf24701f-38d9-40ac-9dea-38869aabd562)
-![image](https://github.com/user-attachments/assets/1260ba48-289a-4719-be7c-d5b78385c77e)
+![image](https://github.com/user-attachments/assets/044689b8-1b2d-4d52-8a14-b7082ef4d4ce)
 
 ### Churn Reason
 **Churn By category:**
@@ -88,8 +85,7 @@ To mitigate churn, the company should enhance competitive pricing, improve custo
 - Moderate Churn in Mid-Range Charges: $41-$60 (25.58%) and Over $100 (28.05%) categories also experience moderate to high churn, further reinforcing that higher spending does not guarantee loyalty. The Over $100 group has a slightly lower churn rate (28.05%) compared to $81-$100 (37.02%), suggesting that customers in this segment might be on premium plans with added incentives that improve retention.
 - Low Churn in Lower Monthly Charge Groups: The $20-$40 category (12.98%) and Under $20 (8.97%) have the lowest churn rates. This indicates that budget-friendly customers are more stable, possibly due to lower expectations or fewer alternative options.
   
-![image](https://github.com/user-attachments/assets/8fd438ab-7faf-4e8a-a508-f3eac40d0220)
-
+![image](https://github.com/user-attachments/assets/5dc796ed-54ba-45e3-8ff6-e124d199355a)
 
 ## Recommendation
 To effectively reduce churn and improve customer retention, the following actions should be taken:
