@@ -10,7 +10,13 @@ Key focus areas include:
 Insights from this analysis will inform strategic initiatives to reduce churn, enhance pricing models, improve customer service, and develop personalized retention programs to maximize revenue retention and customer loyalty.
 
 ## About the data
-the following are the dataset that we use.
+Our analysis is based on the following dataset:
+ 1. **Customer Info:** This data include comprehensive information about or customers, such as their demographics (age, gender, marital status). By analyzing these details, we can profile our ideal customer.
+ 2. **Status: Status:** This data includes the customer's current standing (churned, active, or newly joined), CLTV, and churn reason if applicable. It helps analyze churn behavior, identify causes, segment customers by value (high, medium, low), and assess potential revenue loss to improve retention strategies.
+ 3. **Payment Info:** This data includes customer payment details such as contract type, billing preferences, and payment methods. It tracks financial metrics like monthly charges, total charges, refunds, extra charges, long-distance charges, and total revenue. By analyzing total revenue, we assess revenue loss from churn, while monthly charges help identify potential correlations with customer churn.
+
+We use Excel Power Query to merge datasets and conduct a comprehensive analysis of **customer age, status, CLTV, churn category, churn reason, monthly charges, and total charges**. This analysis helps identify high-risk segments, key churn drivers, and the financial impact of customer attrition.
+
 ![image](https://github.com/user-attachments/assets/24e50e42-2d54-4c96-95c7-4b1b40036c77)
 
 ## Executive Summary
