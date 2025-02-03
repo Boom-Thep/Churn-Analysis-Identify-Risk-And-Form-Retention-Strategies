@@ -17,7 +17,7 @@ Our analysis is based on the following dataset:
 
 We use Excel Power Query to merge datasets and conduct a comprehensive analysis of **customer age, status, CLTV, churn category, churn reason, monthly charges, and total charges**. This analysis helps identify high-risk segments, key churn drivers, and the financial impact of customer attrition.
 
-![image](https://github.com/user-attachments/assets/24e50e42-2d54-4c96-95c7-4b1b40036c77)
+![image](https://github.com/user-attachments/assets/66d06fb1-0d08-415b-84f8-9e5d1c74f793)
 
 ## Executive Summary
 This churn analysis provides a deep dive into customer attrition trends in a telecom company, revealing that competition, customer service dissatisfaction, and pricing concerns are the primary churn drivers. Key findings include:
@@ -97,20 +97,30 @@ To mitigate churn, the company should enhance competitive pricing, improve custo
 
 ## Recommendation
 To effectively reduce churn and improve customer retention, the following actions should be taken:
-1. Address Competitor-Driven Churn (45% of Total Churn)
-Offer competitive pricing adjustments and exclusive retention incentives to customers in high-risk segments.
-Introduce device upgrade programs and loyalty perks to prevent customers from switching to competitors.
-Implement personalized retention campaigns for High-Value customers to enhance engagement.
-2. Improve Customer Service Experience (16.8% of Total Churn)
-Train support staff to improve customer interactions and reduce dissatisfaction caused by poor service.
-Implement proactive customer engagement, reaching out to at-risk customers before they decide to leave.
-Strengthen self-service options to improve customer satisfaction and reduce reliance on direct support.
-3. Reevaluate Pricing Strategies for High-Churn Segments
-Optimize pricing for $81-$100 and $61-$80 customer groups, where churn rates are the highest.
-Offer flexible pricing models, including bundled services and loyalty discounts.
-Target price-sensitive customers with value-based offers to justify costs and improve retention.
-4. Focus on Retention of Medium-Value Customers
-Since Medium-Value customers contribute the highest churn count, implement contract incentives and engagement campaigns tailored to their needs.
-Provide discounted renewal rates and added service benefits for long-term retention.
-Offer targeted promotions and personalized outreach to reduce churn risk in this unstable segment.
-By implementing these data-driven retention strategies, the company can minimize churn, maximize revenue retention, and enhance long-term customer loyalty in a competitive telecom market.
+- Address Competitor-Driven Churn (45% of Total Churn):
+  - Offer competitive pricing adjustments and exclusive retention incentives to customers in high-risk segments.
+  - Introduce device upgrade programs and loyalty perks to prevent customers from switching to competitors.
+  - Implement personalized retention campaigns for High-Value customers to enhance engagement.
+
+- Improve Customer Service Experience (16.8% of Total Churn):
+  - Train support staff to improve customer interactions and reduce dissatisfaction caused by poor service.
+  - Implement proactive customer engagement, reaching out to at-risk customers before they decide to leave.
+  - Strengthen self-service options to improve customer satisfaction and reduce reliance on direct support.
+
+- Reevaluate Pricing Strategies for High-Churn Segments:
+  - Optimize pricing for $81-$100 and $61-$80 customer groups, where churn rates are the highest.
+  - Offer flexible pricing models, including bundled services and loyalty discounts.
+  - Target price-sensitive customers with value-based offers to justify costs and improve retention.
+
+- Focus on Retention of Medium-Value Customers:
+  - Since Medium-Value customers contribute the highest churn count, implement contract incentives and engagement campaigns tailored to their needs.
+  - Provide discounted renewal rates and added service benefits for long-term retention.
+  - Offer targeted promotions and personalized outreach to reduce churn risk in this unstable segment.
+  - By implementing these data-driven retention strategies, the company can minimize churn, maximize revenue retention, and enhance long-term customer loyalty in a competitive telecom market.
+
+## Technical Details
+- Excel
+- SQL
+- Tableau
+
+
