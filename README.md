@@ -71,10 +71,10 @@ To mitigate churn, the company should enhance competitive pricing, improve custo
 
 ### Churn Reason
 **Churn By category:**
-- **Competitor:** Biggest churn driver, responsible for nearly half of all churn at **45% churn rate with total of 841 churned**.
-- **Attitude:** The second driver of churn with **314 churned customers at 16.8 % churn rate**, which indicate problems in customer service and engagement strategies.
-- **Dissatisfaction:** The third reasons why people churn with **303 churns at 16.21% churn rate**. 
-- **Price:** Pricing concerns contribute to a notable share of churn with **211 churned at 11.29% churn rate**.
+- **Competitor:** Biggest churn driver, responsible for nearly half of all churn with **841 customer churned (45% of total churn)**.
+- **Attitude:** The second driver of churn with **314 churned customers (16.8 % of total churn)**, which indicate problems in customer service and engagement strategies.
+- **Dissatisfaction:** The third reasons why people churn with **303 churns (16.21% of total churn)**. 
+- **Price:** Pricing concerns contribute to a notable share of churn with **211 churned (11.29% of total churn)**.
 - **Other:** A smaller but still significant category that includes **miscellaneous or unclassified reasons**.
 
 ![image](https://github.com/user-attachments/assets/646dac3c-e30c-4f73-b0cc-1f5927f13fb0)
@@ -97,30 +97,30 @@ To mitigate churn, the company should enhance competitive pricing, improve custo
 
 ## Recommendation
 To effectively reduce churn and improve customer retention, the following actions should be taken:
-- Address Competitor-Driven Churn (45% of Total Churn):
+- **Address Competitor-Driven Churn (45% of Total Churn):**
   - Offer competitive pricing adjustments and exclusive retention incentives to customers in high-risk segments.
   - Introduce device upgrade programs and loyalty perks to prevent customers from switching to competitors.
   - Implement personalized retention campaigns for High-Value customers to enhance engagement.
 
-- Improve Customer Service Experience (16.8% of Total Churn):
+- **Improve Customer Service Experience (16.8% of Total Churn):**
   - Train support staff to improve customer interactions and reduce dissatisfaction caused by poor service.
   - Implement proactive customer engagement, reaching out to at-risk customers before they decide to leave.
   - Strengthen self-service options to improve customer satisfaction and reduce reliance on direct support.
 
-- Reevaluate Pricing Strategies for High-Churn Segments:
+- **Reevaluate Pricing Strategies for High-Churn Segments:**
   - Optimize pricing for $81-$100 and $61-$80 customer groups, where churn rates are the highest.
   - Offer flexible pricing models, including bundled services and loyalty discounts.
   - Target price-sensitive customers with value-based offers to justify costs and improve retention.
 
-- Focus on Retention of Medium-Value Customers:
+- **Focus on Retention of Medium-Value Customers:**
   - Since Medium-Value customers contribute the highest churn count, implement contract incentives and engagement campaigns tailored to their needs.
   - Provide discounted renewal rates and added service benefits for long-term retention.
   - Offer targeted promotions and personalized outreach to reduce churn risk in this unstable segment.
   - By implementing these data-driven retention strategies, the company can minimize churn, maximize revenue retention, and enhance long-term customer loyalty in a competitive telecom market.
 
 ## Technical Details
-- Excel
-- SQL
-- Tableau
+- **Excel:** Used for data cleaning and merging datasets with Power Query to focus on relevant data for identifying churn segments, reasons for churn, and potential financial impact.
+- **SQL:** Ensures accuracy in calculations and data manipulation. Used to calculate key metrics like churn rate and segment data by age, CLTV, and monthly charges.
+- **Tableau** Creates data visualizations and dashboards to present insights and findings effectively.
 
 
