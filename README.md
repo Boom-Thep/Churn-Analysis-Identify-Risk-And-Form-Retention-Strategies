@@ -17,7 +17,7 @@ Our analysis is based on the following dataset:
 
 We use Excel Power Query to merge datasets and conduct a comprehensive analysis of **customer age, status, CLTV, churn category, churn reason, monthly charges, and total charges**. This analysis helps identify high-risk segments, key churn drivers, and the financial impact of customer attrition.
 
-![image](https://github.com/user-attachments/assets/66d06fb1-0d08-415b-84f8-9e5d1c74f793)
+![image](https://github.com/user-attachments/assets/53dc9a23-595a-4625-913e-4803419c194c)
 
 ## Executive Summary
 This churn analysis provides a deep dive into customer attrition trends in a telecom company, revealing that competition, customer service dissatisfaction, and pricing concerns are the primary churn drivers. Key findings include:
