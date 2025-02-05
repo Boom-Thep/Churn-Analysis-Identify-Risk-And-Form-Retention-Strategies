@@ -42,9 +42,16 @@ To mitigate churn, the company should enhance competitive pricing, improve custo
 ![image](https://github.com/user-attachments/assets/8c630106-f1bf-4d32-acab-f7712c9a1820)
 
 ### CLTV Segmentation
-- **High-Value Customers:** The company were able to **retain a total of 1891 High-Value customers**, which is a positive sign. However, **555 High-Value customers churned**. This is a significant concern as these customers are the most profitable, so losing them has a major financial impact. In addition, only **128 high value customers joined**, which is a concern because acquiring high-value customers is crucial for revenue growth. 
-- **Medium-Value Customers:** Medium value customers have the **highest retention at 2,515 customers**, but also had the **highest churn at 1,108 customers**, showing mixed loyalty. Moreover, medium value customers make up the bulk of **new customers at 274 customers**.
-- **Low-Value Customers:** Low value customers have the **lowest retention at 314 customers** and the **lowest churn at 206 customers**, indicating a smaller financial impact. Moreover, Low-Value customers make up the smallest portion of **new customers at 52 customers**, suggesting that the company is not heavily attracting or focusing on this segment.
+- **High-Value Customers:**
+  - The company were able to **retain a total of 1891 High-Value customers**, which is a positive sign.
+  - However, **555 High-Value customers churned**. This is a significant concern as these customers are the most profitable, so losing them has a major financial impact.
+  - In addition, only **128 high value customers joined**, which is a concern because acquiring high-value customers is crucial for revenue growth. 
+- **Medium-Value Customers:**
+  - Medium value customers have the **highest retention at 2,515 customers**, but also had the **highest churn at 1,108 customers**, showing mixed loyalty.
+  - Moreover, medium value customers make up the bulk of **new customers at 274 customers**.
+- **Low-Value Customers:**
+  - Low value customers have the **lowest retention at 314 customers** and the **lowest churn at 206 customers**, indicating a smaller financial impact.
+  - Moreover, Low-Value customers make up the smallest portion of **new customers at 52 customers**, suggesting that the company is not heavily attracting or focusing on this segment.
 
 ![image](https://github.com/user-attachments/assets/615204bd-04c2-42b2-9307-6c13154aa92e)
 
@@ -89,9 +96,14 @@ To mitigate churn, the company should enhance competitive pricing, improve custo
 ![image](https://github.com/user-attachments/assets/48f2cf31-a1a0-491a-bac9-d08e41bf567d)
 
 ### Monthly Charges Vs. Churn
-- **High Churn in Higher Monthly Charge Groups:** The highest churn rates are in the **$81-$100 (37.02%) and $61-$80 (33.17%) categories**. This suggests that customers with higher monthly charges are more likely to leave, likely due to cost concerns or a perceived lack of value.
-- **Moderate Churn in Mid-Range Charges: $41-$60 (25.58%) and Over $100 (28.05%) categories** also experience moderate to high churn, further reinforcing that higher spending does not guarantee loyalty. The **Over $100 group has a slightly lower churn rate (28.05%) compared to $81-$100 (37.02%)**, suggesting that customers in this segment might be on premium plans with added incentives that improve retention.
-- **Low Churn in Lower Monthly Charge Groups: The $20-$40 category (12.98%) and Under $20 (8.97%)** have the lowest churn rates. This indicates that budget-friendly customers are more stable, possibly due to lower expectations or fewer alternative options.
+- **High Churn in Higher Monthly Charge Groups:**
+  - The highest churn rates are in the **$81-$100 (37.02%) and $61-$80 (33.17%) categories**.
+  - This suggests that customers with higher monthly charges are more likely to leave, likely due to cost concerns or a perceived lack of value.
+- **Moderate Churn in Mid-Range Charges:**
+  - **$41-$60 (25.58%) and Over $100 (28.05%) categories** also experience moderate to high churn, further reinforcing that higher spending does not guarantee loyalty.
+  - The **Over $100 group has a slightly lower churn rate (28.05%) compared to $81-$100 (37.02%)**, suggesting that customers in this segment might be on premium plans with added incentives that improve retention.
+- **Low Churn in Lower Monthly Charge Groups:**
+  - **The $20-$40 category (12.98%) and Under $20 (8.97%)** have the lowest churn rates. This indicates that budget-friendly customers are more stable, possibly due to lower expectations or fewer alternative options.
   
 ![image](https://github.com/user-attachments/assets/5dc796ed-54ba-45e3-8ff6-e124d199355a)
 
