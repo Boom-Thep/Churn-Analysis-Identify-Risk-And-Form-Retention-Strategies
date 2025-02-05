@@ -135,4 +135,7 @@ To effectively reduce churn and improve customer retention, the following action
 - **SQL:** Ensures accuracy in calculations and data manipulation. Used to calculate key metrics like churn rate and segment data by age, CLTV, and monthly charges.
 - **Tableau** Creates data visualizations and dashboards to present insights and findings effectively.
 
+## View Tableau Dashboard
+[Click To View Churn Report Dashboard](https://public.tableau.com/views/ChurnAnalysisDashboardOverview/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
+
 
