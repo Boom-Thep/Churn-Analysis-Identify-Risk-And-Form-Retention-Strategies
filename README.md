@@ -12,12 +12,12 @@ Insights from this analysis will inform strategic initiatives to reduce churn, e
 ## About the data
 Our analysis is based on the following dataset:
  1. **Customer Info:** This data include comprehensive information about our customers, such as their demographics (age, gender, marital status). By analyzing these details, we can profile our ideal customer.
- 2. **Status: Status:** This data includes the customer's current standing (churned, active, or newly joined), CLTV, and churn reason if applicable. It helps analyze churn behavior, identify causes, segment customers by value (high, medium, low), and assess potential revenue loss to improve retention strategies.
- 3. **Payment Info:** This data includes customer payment details such as contract type, billing preferences, and payment methods. It tracks financial metrics like monthly charges, total charges, refunds, extra charges, long-distance charges, and total revenue. By analyzing total revenue, we assess revenue loss from churn, while monthly charges help identify potential correlations with customer churn.
+ 2. **Customer Status:** This data includes the customer's current standing (churned, active, or newly joined), CLTV, and churn reason if applicable. It helps analyze churn behavior, identify causes, segment customers by value (high, medium, low), and assess potential revenue loss to improve retention strategies.
+ 3. **Payment:** This data includes customer payment details such as contract type, billing preferences, and payment methods. It tracks financial metrics like monthly charges, total charges, refunds, extra charges, long-distance charges, and total revenue. By analyzing total revenue, we assess revenue loss from churn, while monthly charges help identify potential correlations with customer churn.
 
 We use Excel Power Query to merge datasets and conduct a comprehensive analysis of **customer age, status, CLTV, churn category, churn reason, monthly charges, and total charges**. This analysis helps identify high-risk segments, key churn drivers, and the financial impact of customer attrition.
 
-![image](https://github.com/user-attachments/assets/53dc9a23-595a-4625-913e-4803419c194c)
+![image](https://github.com/user-attachments/assets/5c7cff2a-4d00-4169-a918-13a2c5396fe3)
 
 ## Executive Summary
 This churn analysis provides a deep dive into customer attrition trends in a telecom company, revealing that competition, customer service dissatisfaction, and pricing concerns are the primary churn drivers. Key findings include:
