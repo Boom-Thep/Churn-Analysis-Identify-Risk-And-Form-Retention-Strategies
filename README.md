@@ -109,26 +109,34 @@ To mitigate churn, the company should enhance competitive pricing, improve custo
 
 ## Recommendation
 To effectively reduce churn and improve customer retention, the following actions should be taken:
-- **Address Competitor-Driven Churn (45% of Total Churn):**
-  - Offer competitive pricing adjustments and exclusive retention incentives to customers in high-risk segments.
-  - Introduce device upgrade programs and loyalty perks to prevent customers from switching to competitors.
-  - Implement personalized retention campaigns for High-Value customers to enhance engagement.
+- **Address Competitor-Driven Churn (45% of Total Churn):** Competitors offering better devices, pricing, and service quality account for the largest share of churn. To mitigate this:
+  - **Develop competitive retention offers:** Provide personalized discounts, better data plans, or bundled services for high-risk customers.
+  - **Enhance loyalty benefits:** Introduce long-term commitment perks like free months of service, priority support, or exclusive data packages for retained customers.
 
-- **Improve Customer Service Experience (16.8% of Total Churn):**
-  - Train support staff to improve customer interactions and reduce dissatisfaction caused by poor service.
-  - Implement proactive customer engagement, reaching out to at-risk customers before they decide to leave.
-  - Strengthen self-service options to improve customer satisfaction and reduce reliance on direct support.
+- **Improve Customer Service Experience (16.8% of Total Churn):** Poor customer interactions, especially with support staff, are a major factor in customer dissatisfaction and churn. Therefore, to improve customer service experience and increase retention we should:
+  - **Enhance customer support training:** Improve service representatives' skills in handling customer complaints, active listening, and problem resolution.
+  - **Implement a proactive support system:** Use AI-powered chatbots and automated follow-ups to address customer concerns before they escalate.
+  - **Introduce customer feedback loops:** Conduct post-interaction surveys and use feedback data to optimize service quality.
 
-- **Reevaluate Pricing Strategies for High-Churn Segments:**
-  - Optimize pricing for $81-$100 and $61-$80 customer groups, where churn rates are the highest.
-  - Offer flexible pricing models, including bundled services and loyalty discounts.
-  - Target price-sensitive customers with value-based offers to justify costs and improve retention.
+- **Reevaluate Pricing Strategies for High-Churn Segments:** Both customers paying $81-$100 (37.02% churn rate) and $61-$80 (33.17% churn rate) have the highest likelihood of leaving, indicating price sensitivity. Therefore, we should:
+  - **Introduce flexible pricing plans:** Offer lower-cost alternatives, customizable plans, or data rollovers to improve affordability.
+  - **Bundle value-added services:** Include streaming subscriptions, cloud storage, or priority support in premium plans to justify higher prices.
+  - **Targeted customers offer:** Target price-sensitive customers with value-based offers to justify costs and offer them retention-focused deals.
 
-- **Focus on Retention of Medium-Value Customers:**
-  - Since Medium-Value customers contribute the highest churn count, implement contract incentives and engagement campaigns tailored to their needs.
-  - Provide discounted renewal rates and added service benefits for long-term retention.
-  - Offer targeted promotions and personalized outreach to reduce churn risk in this unstable segment.
-  - By implementing these data-driven retention strategies, the company can minimize churn, maximize revenue retention, and enhance long-term customer loyalty in a competitive telecom market.
+- **Focus on Retention of Medium-Value Customers:** Medium-Value customers have the highest churn count across all age groups, making them the most unstable segment. Therefore, we should:
+  - **Offer long-term contract incentives:** Provide discounted renewal rates or bonus services for extended commitments.
+  - **Develop tiered loyalty programs:** Reward loyal customers with exclusive data boosts, discounts, or priority service access.
+  - **Personalize engagement efforts:** Use behavioral data to create targeted marketing campaigns with offers that align with customer preferences.
+    
+ - **Prioritze Retention Effort On Key Age Group:** 20-35 and 36-50 age groups contribute the highest absolute churn, leading to significant revenue loss. Therefore, to reduce churn and minimize loss we should:
+   - **Focus on retention for 20-35 and 36-50 age groups:**
+     - High-Value customers: Provide exclusive perks, better device upgrade options, and premium loyalty rewards.
+     - Medium-Value customers: Implement contract incentives and personalized outreach programs.
+     - Low-Value customers: Introduce cost-effective engagement strategies such as flexible prepaid plans or discounts on service upgrades.
+    - **Make Over-65 a secondary focus:** Since this group has the highest churn rate but lower overall numbers, consider flexible retention approaches like senior-friendly customer support and customized service plans.
+
+By implementing these data-driven retention strategies, the company can minimize churn, maximize revenue retention, and enhance long-term customer loyalty in a competitive telecom market.
+
 
 ## Technical Details
 - **Excel:** Used for data cleaning and merging datasets with Power Query to focus on relevant data for identifying churn segments, reasons for churn, and potential financial impact.
