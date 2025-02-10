@@ -1,4 +1,4 @@
-# Churn Insights & Revenue Impact: Understanding Customer Attrition in Telecom Company
+# Churn Analysis: Identify Risk and Form Retention Strategies
 ## Project Summary
 This project presents a customer churn analysis for a telecom company specializing in phone and internet services, using a dataset of 7,043 customers from California. The objective of this study is to identify key churn drivers, assess financial impact, and develop data-driven retention strategies. By analyzing customer churn across CLTV segmentation, age groups, churn reasons, and monthly pricing trends, the goal is to prioritize high-risk segments and improve customer retention efforts.
 Key focus areas include:
